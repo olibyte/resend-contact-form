@@ -8,9 +8,9 @@ This project implements an automated contact form using Next.js, ShadCN UI compo
 
 The main purpose of this project is to provide a simple, yet powerful contact form solution that:
 
-1. Utilizes ShadCN UI components for a clean and modern design
-2. Implements form validation and submission handling
-3. Automates email responses using Resend
+1. ShadCN UI components for a clean and modern design
+2. Zod for type safety and form validation
+3. Resend for automated email responses
 
 ## Key Features
 
