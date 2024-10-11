@@ -1,4 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+# Automated Contact Form with ShadCN and Resend
+
+This project implements an automated contact form using Next.js, ShadCN UI components, and Resend for email automation.
+![Contact Form Screenshot](contact-form-screenshot.png)
+
+## Project Overview
+
+The main purpose of this project is to provide a simple, yet powerful contact form solution that:
+
+1. Utilizes ShadCN UI components for a clean and modern design
+2. Implements form validation and submission handling
+3. Automates email responses using Resend
+
+## Key Features
+
+- Built with Next.js for optimal performance and SEO
+- Styled using ShadCN CLI (v0) for consistent and customizable UI components
+- Form validation to ensure data integrity
+- Automated email responses to improve user experience and reduce manual workload
+
+## Technology Stack
+
+- Next.js
+- React
+- ShadCN UI (v0)
+- Resend (for email automation), API Key required
 
 ## Getting Started
 
